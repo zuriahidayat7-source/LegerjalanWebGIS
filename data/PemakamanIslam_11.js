@@ -1,0 +1,1 @@
+var json_PemakamanIslam_11 = {"type":"FeatureCollection","name":"PemakamanIslam_11","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"OBJECTID":1.0,"IDPosisi":"3","SRS_ID":null,"IDPI":"177040","IDRuas":"0011CK"},"geometry":{"type":"Point","coordinates":[104.488545448614019,0.916903129584988]}}]}

@@ -1,0 +1,1 @@
+var json_JPO_17 = {"type":"FeatureCollection","name":"JPO_17","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"OBJECTID":1.0,"idjpo":"120050","sta":"STA 0+550","SRS_ID":null,"idruas":"0011CK"},"geometry":{"type":"Point","coordinates":[104.484147743310842,0.916591649520687]}}]}

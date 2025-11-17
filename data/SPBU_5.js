@@ -1,0 +1,1 @@
+var json_SPBU_5 = {"type":"FeatureCollection","name":"SPBU_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"OBJECTID":1.0,"IDSPBU":"177330","SRS_ID":null,"IDRuas":"0011CK","IDPosisi":"9"},"geometry":{"type":"Point","coordinates":[104.481479609804268,0.916284829020815]}}]}

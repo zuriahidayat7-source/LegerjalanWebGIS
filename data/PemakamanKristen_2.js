@@ -1,0 +1,1 @@
+var json_PemakamanKristen_2 = {"type":"FeatureCollection","name":"PemakamanKristen_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"OBJECTID":1.0,"IDPosisi":"3","SRS_ID":null,"IDPK":"177050","IDRuas":"0011CK"},"geometry":{"type":"Point","coordinates":[104.48776534254101,0.916796807311369]}}]}

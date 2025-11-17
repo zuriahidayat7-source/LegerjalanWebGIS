@@ -1,0 +1,1 @@
+var json_Mesjid_12 = {"type":"FeatureCollection","name":"Mesjid_12","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"OBJECTID":1.0,"IDMJD":"177090","SRS_ID":null,"IDPosisi":"3","IDRuas":"0011CK"},"geometry":{"type":"Point","coordinates":[104.482700875502346,0.916076764736122]}}]}
